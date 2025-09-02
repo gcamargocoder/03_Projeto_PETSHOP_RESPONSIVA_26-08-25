@@ -1,89 +1,87 @@
 * {
-    font-family: "Montserrat", sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif; /* Define a fonte padrão */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimento padrão */
+    box-sizing: border-box; /* Inclui padding e borda nas dimensões de elementos */
 }
 
 header {
-    margin: 44px 0px 144px 76px;
-    flex-direction: column;
-
+    margin: 44px 0px 144px 76px; /* Define margens para o cabeçalho */
+    flex-direction: column; /* Alinha itens em coluna (se aplicável) */
 }
 
 .link-header {
-    font-size: 24px;
-    font-weight: 600;
-    line-height: normal;
-    color: #989D9C;
-    cursor: pointer;
-    margin-right: 23px;
+    font-size: 24px; /* Tamanho da fonte */
+    font-weight: 600; /* Peso da fonte */
+    line-height: normal; /* Altura da linha */
+    color: #989D9C; /* Cor do texto */
+    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
+    margin-right: 23px; /* Margem à direita */
 }
 
 .button-header {
-    border-radius: 20.5px;
-    background: #665AE1;
-    width: 130px;
-    height: 41px;
-    border: none;
-    color: #FFF;
-    font-size: 24px;
-    font-weight: 600;
-    line-height: normal;
-    cursor: pointer;
+    border-radius: 20.5px; /* Arredonda os cantos do botão */
+    background: #665AE1; /* Cor de fundo do botão */
+    width: 130px; /* Largura do botão */
+    height: 41px; /* Altura do botão */
+    border: none; /* Remove a borda padrão */
+    color: #FFF; /* Cor do texto no botão */
+    font-size: 24px; /* Tamanho da fonte do botão */
+    font-weight: 600; /* Peso da fonte do botão */
+    line-height: normal; /* Altura da linha do botão */
+    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
 }
 
 .img-logo {
-    width: 568px;
-    height: 500px;
-    margin-left: 0px;
-    display: inline-block;
+    width: 568px; /* Largura da imagem do logo */
+    height: 500px; /* Altura da imagem do logo */
+    margin-left: 0px; /* Margem à esquerda da imagem */
+    display: inline-block; /* Exibe a imagem em linha */
 }
 
 section {
-    display: inline-block;
-    margin-left: 86px;
+    display: inline-block; /* Exibe a seção em linha */
+    margin-left: 86px; /* Margem à esquerda da seção */
 }
 
 h1 {
-    color: #515151;
-    font-size: 100px;
-    font-weight: 900;
-    line-height: 122px;
+    color: #515151; /* Cor do h1 */
+    font-size: 100px; /* Tamanho da fonte do h1 */
+    font-weight: 900; /* Peso da fonte do h1 */
+    line-height: 122px; /* Altura da linha do h1 */
 }
 
 h2 {
-    color: #515151;
-    font-size: 58px;
-    font-weight: 500;
-    line-height: 71px;
+    color: #515151; /* Cor do h2 */
+    font-size: 58px; /* Tamanho da fonte do h2 */
+    font-weight: 500; /* Peso da fonte do h2 */
+    line-height: 71px; /* Altura da linha do h2 */
 }
 
 p {
-    color: #848484;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 29px;
-    width: 515px;
-    margin-top: 32px;
-    margin-bottom: 65px;
+    color: #848484; /* Cor do texto do parágrafo */
+    font-size: 24px; /* Tamanho da fonte do parágrafo */
+    font-weight: 400; /* Peso da fonte do parágrafo */
+    line-height: 29px; /* Altura da linha do parágrafo */
+    width: 515px; /* Largura do parágrafo */
+    margin-top: 32px; /* Margem superior do parágrafo */
+    margin-bottom: 65px; /* Margem inferior do parágrafo */
 }
 
 .button-main {
-    border-radius: 30px;
-    background: #ADFF00;
-    border: none;
-    width: 239px;
-    height: 64px;
-    cursor: pointer;
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    color: #000;
+    border-radius: 30px; /* Arredonda os cantos do botão principal */
+    background: #ADFF00; /* Cor de fundo do botão principal */
+    border: none; /* Remove a borda padrão do botão principal */
+    width: 239px; /* Largura do botão principal */
+    height: 64px; /* Altura do botão principal */
+    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); /* Sombra do botão principal */
+    color: #000; /* Cor do texto do botão principal */
     font-size: 28px;
-    font-weight: 700;
-    line-height: 34px;
 }
 
 @media screen and (max-width: 800px) {
+
     header {
         display: none;
     }
@@ -101,7 +99,7 @@ p {
     }
 
     .img-logo {
-        margin left: 7%;
+        margin-left: 7%;
         width: 375px;
         height: 353px;
     }
@@ -133,3 +131,4 @@ p {
         width: auto;
         margin: 4px 8px 130px 8px;
     }
+}
