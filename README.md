@@ -12,9 +12,7 @@
 <p align="center">
   <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#construction_worker-installation">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bug-issues">Issues</a>&nbsp;&nbsp;&nbsp;
-</p>
+  </p>
 
 <br>
 <h3 align="center">
@@ -28,45 +26,16 @@
 This is my first project for a web page for an animal protection organization.
 
 The web page was designed with responsiveness for computers and smartphones.
+
 <br>
 
 ## :computer: Technologies
 
-- [HTML]
-- [CSS]
-
-
-<br>
-
-# :construction_worker: Installation
-
-**You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
-
-```$ git clone https://github.com/rodolfomori/frontend-take-home-assignment.git```
-
-<br>
-
-**Install dependencies**
-
-```$ npm install```
-
-<br>
-
-**Run Tests**
-
-Unit test with Jest and Enzyme
-<br>
-```$ npm run test:jest```
-<br>
-<br>
-E2E test with Cypress
-<br>```$ npm run test:e2e```
-<br>
-<br>
-All test
-<br>
-```$ npm run test```
-
+<h3>
+<img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/html.png?raw=true" alt="Origin" width="50px">
+<img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/css-3.png?raw=true" alt="Origin" width="50px">
+<h3/>
+    
 <br>
 
 # :runner: Getting Started
