@@ -38,24 +38,8 @@ The web page was designed with responsiveness for computers and smartphones.
     
 <br>
 
-# :runner: Getting Started
+# 🚀 The beginning! 
 
-Run the following command in order to start the application in a development environment:
+Estou muito satisfeito com o resultado, afinal, esse foi o meu primeiro desenvolvimento de uma pagina web.
 
-```$ npm run dev```
-
-<br>
-
-
-# :bug: Issues
-
-Feel free to **file a new issue** with a respective title and description on the [Origin Take-Home Assignment](https://github.com/rodolfomori/frontend-take-home-assignment/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!.
-
-<br>
-
-
-
-
-
-Made with ♥ by Rodolfo Mori :wave: [Get in touch!](https://www.linkedin.com/in/rodolfomori/)
-t
+Made with ♥ by Gilson Camargo :wave: [Get in touch!](https://www.linkedin.com/in/gilcccamargo/)
