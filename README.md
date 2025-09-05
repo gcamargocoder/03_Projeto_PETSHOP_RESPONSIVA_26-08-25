@@ -3,9 +3,9 @@
 </h1>
 
 
-<h3 align="center">
+<h2 align="center">
   We care about animals.
-</h3>
+</h2>
 
 <br>
 
