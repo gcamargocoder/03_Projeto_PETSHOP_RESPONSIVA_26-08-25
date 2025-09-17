@@ -42,4 +42,4 @@ The web page was designed with responsiveness for computers and smartphones.
 
 Estou muito satisfeito com o resultado, afinal, esse foi o meu primeiro desenvolvimento de uma pagina web.
 
-Made with ♥ by Gilson Camargo :wave: [Get in touch!](https://www.linkedin.com/in/gilccamargo/)
+Made with ♥ by Gilson Camargo :wave: [Get in touch!](https://www.linkedin.com/in/gilcamargo/)
