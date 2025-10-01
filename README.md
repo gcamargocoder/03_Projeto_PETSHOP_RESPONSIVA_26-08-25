@@ -26,8 +26,19 @@
 
 ## <span id="about">🏠 About the project</span>
 
-This is my first project for a **web page for an animal protection organization**.  
-The page was designed to be **responsive for computers and smartphones**.
+The **Petshop Website** is a **responsive landing page** created for an **animal protection and care organization**.  
+The main goal of this project is to demonstrate how **modern, clean, and accessible web design** can help NGOs and small businesses present their mission and services online.  
+
+✨ **Key features:**
+- Fully **responsive design** (desktop and mobile)  
+- Clean and intuitive **user interface**  
+- Structured layout for **services, mission, and contact** sections  
+- Semantic **HTML5** and well-organized **CSS3** for maintainability  
+
+🚀 This was my **first complete web project**, where I practiced and applied:
+- Responsive layouts with **Flexbox**  
+- **Mobile-first** design principles  
+- Visual identity aligned with the organization’s values  
 
 ---
 
