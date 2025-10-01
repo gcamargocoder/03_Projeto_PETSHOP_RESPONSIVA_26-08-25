@@ -54,7 +54,8 @@ The main goal of this project is to demonstrate how **modern, clean, and accessi
 ## <span id="author">✍ Author</span>
 
 🚀 The beginning!  
-I am very satisfied with the result, after all, this was my first development of a responsive web page.  
+
+"Every skill you acquire today is the door that opens to tomorrow's opportunities."
 
 Made with ♥ by **Gilson Camargo** 👋  
 
