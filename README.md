@@ -1,45 +1,50 @@
 <h1 align="center">
-  <img src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/We_Care_BT.png?raw=true" alt="Origin" width="150px">
+  <img src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/We_Care_BT.png?raw=true" alt="Logo Petshop" width="150px">
 </h1>
 
-
-<h2 align="center">
-  We care about animals.
-</h2>
+<h2 align="center">We care about animals.</h2>
 
 <br>
 
 <p align="center">
-  <a href="#house-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  </p>
-
-<br>
-<h3 align="center">
-<img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/DEV_PET_RESPONSIVO.png?raw=true">
-  <h3/>
-<br>
-
-
-## :house: About the project
-
-This is my first project for a web page for an animal protection organization.
-
-The web page was designed with responsiveness for computers and smartphones.
+  <a href="#about">🏠 About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">💻 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author">✍ Author</a>
+</p>
 
 <br>
 
-## :computer: Technologies
+---
+
+<h3 align="center">📱💻 Responsive Layout</h3>
+
+<p align="center">
+  <img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/DEV_PET_RESPONSIVO.png?raw=true" width="700px">
+</p>
+
+---
+
+## <span id="about">🏠 About the project</span>
+
+This is my first project for a **web page for an animal protection organization**.  
+The page was designed to be **responsive for computers and smartphones**.
+
+---
+
+## <span id="technologies">💻 Technologies</span>
 
 <h3>
-<img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/html.png?raw=true" alt="Origin" width="50px">
-<img alt="Layout" src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/css-3.png?raw=true" alt="Origin" width="50px">
-<h3/>
-    
-<br>
+<img src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/html.png?raw=true" alt="HTML" width="50px">
+<img src="https://github.com/gcamargocoder/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/blob/main/img/css-3.png?raw=true" alt="CSS" width="50px">
+</h3>
 
-# 🚀 The beginning! 
+---
 
-Estou muito satisfeito com o resultado, afinal, esse foi o meu primeiro desenvolvimento de uma pagina web.
+## <span id="author">✍ Author</span>
 
-Made with ♥ by Gilson Camargo :wave: [Get in touch!](https://www.linkedin.com/in/gilcamargo/)
+🚀 The beginning!  
+I am very satisfied with the result, after all, this was my first development of a responsive web page.  
+
+Made with ♥ by **Gilson Camargo** 👋  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilcamargo/)
