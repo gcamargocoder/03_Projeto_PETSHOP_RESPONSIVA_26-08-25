@@ -14,6 +14,10 @@
 
 <br>
 
+## 🌐 Live Demo
+
+👉 [**Click here to try the project online**](https://gcamargocoder.github.io/03_Projeto_PETSHOP_RESPONSIVA_26-08-25/)  
+
 ---
 
 <h3 align="center">📱💻 Responsive Layout</h3>
